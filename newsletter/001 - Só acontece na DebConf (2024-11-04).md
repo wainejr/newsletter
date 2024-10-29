@@ -1,4 +1,4 @@
-Aqui vão algumas das atualizações e assuntos que rolaram nos últimos dias na [comunidade do desempenho]()
+Aqui vão algumas das atualizações e assuntos que rolaram nos últimos dias na [comunidade do desempenho](https://discord.gg/NNuzYsNPjV)
 
 ## Só acontece na DebConf
 
@@ -50,6 +50,11 @@ O @kov e o @caio mandaram lá a experiência e configuração usando IA localmen
 ![[001-4.png]]
 
 Quem quiser saber como configurar, só dar um alô pra eles no Discord e pedir ajuda pra fazer o setup.
+
+## No canal
+
+- [zGPU volta com força](https://youtu.be/K1o8YjPY7Dk), fazendo a API da API da API da API do OpenCL pra Zig e apanhando de todo lado (logo logo começamos o LBM em GPU)
+- [Meu setup de gravação no Linux](https://youtu.be/cwaNMdJtXbk) pra quem quer se aventurar pelo caminho de criação de conteúdo (quanto mais gente criando, melhor)
 
 ## Notícias
 
