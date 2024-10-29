@@ -29,7 +29,7 @@ Minha experiência com C++ não é das melhores, mas é inegável a importância
 
 ## Rust deixando diff mais rápido (por BR)
 
-Finalmente o @kov abriu sua PR pra deixar o famoso comando `diff` mais rápido, usando um algoritmo mais eficiente (que eu devo fazer um vídeo sobre).
+Finalmente o @kov abriu sua PR pra deixar o famoso comando `diff` mais rápido (no projeto paralelo uutils, reimplementação em Rust), usando um algoritmo mais eficiente (que eu devo fazer um vídeo sobre).
 
 ![[001-5.png]]
 
