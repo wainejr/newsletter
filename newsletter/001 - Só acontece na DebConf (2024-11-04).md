@@ -35,6 +35,14 @@ Finalmente o @kov abriu sua PR pra deixar o famoso comando `diff` mais rápido, 
 
 Uma honra ter pessoas fodas assim lá na comunidade do desempenho.
 
+## Projeto de SSD com FPGA
+
+O @Jadson mandou essa semana um artigo sobre RAM Disk com FPGA lá no Discord, vale conferir quem se interessa pelo mundo de lógica reprogramável
+
+![[001-6.png]]
+
+Juntar baixo nível com um design e site bonito desse é pra poucos. O artigo tá melhor que a documentação de muito software e API gigante por aí. Meus parabéns, Jadson!
+
 ## IA no Terminal
 
 O @kov e o @caio mandaram lá a experiência e configuração usando IA localmente, com o modelo LLama da Meta.

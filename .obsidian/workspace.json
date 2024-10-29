@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newsletter/2024-11-04 001 - Só acontece na DebConf.md",
+                "file": "newsletter/001 - Só acontece na DebConf (2024-11-04).md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-11-04 001 - Só acontece na DebConf"
+              "title": "001 - Só acontece na DebConf (2024-11-04)"
+            }
+          },
+          {
+            "id": "ec73abdce710cc9e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "newsletter/imgs/001/001-6.png"
+              },
+              "icon": "lucide-image",
+              "title": "001-6"
             }
           }
         ]
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/2024-11-04 001 - Só acontece na DebConf.md",
+                "file": "newsletter/001 - Só acontece na DebConf (2024-11-04).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-04 001 - Só acontece na DebConf"
+              "title": "Backlinks for 001 - Só acontece na DebConf (2024-11-04)"
             }
           },
           {
@@ -112,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/2024-11-04 001 - Só acontece na DebConf.md",
+                "file": "newsletter/001 - Só acontece na DebConf (2024-11-04).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-11-04 001 - Só acontece na DebConf"
+              "title": "Outgoing links from 001 - Só acontece na DebConf (2024-11-04)"
             }
           },
           {
@@ -139,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/2024-11-04 001 - Só acontece na DebConf.md"
+                "file": "newsletter/001 - Só acontece na DebConf (2024-11-04).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-04 001 - Só acontece na DebConf"
+              "title": "Outline of 001 - Só acontece na DebConf (2024-11-04)"
             }
           }
         ]
@@ -164,6 +176,8 @@
   },
   "active": "168472901d0156c8",
   "lastOpenFiles": [
+    "newsletter/imgs/001/001-6.png",
+    "newsletter/001 - Só acontece na DebConf (2024-11-04).md",
     "newsletter/imgs/001/001-5.png",
     "newsletter/imgs/001/001-4.png",
     "newsletter/imgs/001/001-3.png",
@@ -172,12 +186,9 @@
     "newsletter/imgs/001/001-0.png",
     "newsletter/imgs/001",
     "newsletter/imgs",
-    "newsletter/2024-11-04 001 - Só acontece na DebConf.md",
     "newsletter/Newsletter/imgs-news/001/001-5.png",
     "newsletter/Newsletter/imgs-news/001/001-4.png",
     "newsletter/Newsletter/imgs-news/001/001-3.png",
-    "newsletter/Newsletter/imgs-news/001/001-2.png",
-    "newsletter/Newsletter/imgs-news/001/001-1.png",
     "newsletter/Newsletter/imgs-news/001",
     "newsletter/Newsletter/imgs-news",
     "newsletter/Newsletter/2024-11-04 001 - Só acontece na DebConf.md",
